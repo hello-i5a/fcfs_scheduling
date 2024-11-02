@@ -1,4 +1,4 @@
-# CPU Scheduling Simulation: First-Come-First-Serve (FCFS)
+# CPU Scheduling Algorithm: First-Come-First-Serve (FCFS)
 
 This python program simulates CPU scheduling using the First-Come-First-Serve (FCFS) algorithm. It calculates and displays various metrics for each process, including waiting time and turnaround time, as well as a Gantt chart to visualize the scheduling.
 
